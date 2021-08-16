@@ -1,0 +1,11 @@
+http://skew.org/xml/stylesheets/url-encode/
+
+Description: Only a very small subset of ASCII characters can be safely embedded in a URI. Characters outside this set must be escaped using so-called "URL encoding" or "%-escaping". The characters are converted to bytes according to some encoding (ASCII if possible) and those bytes are each written as a '%' followed by 2 hexadecimal digits. The encoding used as the basis for this conversion can be anything, but tends to be dictated by the context in which the URI is being used. Recent and future standards use UTF-8, but legacy applications including many widely-deployed, server-side processors of HTML form data assume ISO-8859-1.
+
+For example, the greeting "¡Hola, César!" can be embedded in a URI if it is written as follows: %A1Hola%2C%20C%E9sar!. (...assuming ISO-8859-1 as the basis for encoding. If it were UTF-8 based, then it would be %C2%A1Hola%2C%20C%C3%A9sar!).
+
+The url-encode.xsl demo URL-encodes an arbitrary string passed in as a parameter named iso-string. It assumes ISO-8859-1 will be the basis for the URL-encoding. It should be compatible with any XSLT 1.0 processor.
+
+Decoding an ISO-8859-1 based URL-encoded string uses a similar technique. See url-decode.xsl for a demo. Its url parameter is the string to be decoded.
+
+See also: this MSXML-specific solution using msxsl:script and this Java extension function solution. 

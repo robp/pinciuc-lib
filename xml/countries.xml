@@ -1,0 +1,2964 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+	<country id="AFG">
+		<language id="en">
+			<form id="long">Afghanistan</form>
+		</language>
+		<language id="fr">
+			<form id="long">Afghanistan</form>
+		</language>
+	</country>
+
+<country id="ALB">
+ 
+<language id="en">
+ 
+<form id="long">Albania</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Albanie</form>
+</language>
+</country>
+<country id="DZA">
+ 
+<language id="en">
+ 
+
+<form id="long">Algeria</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Alg&#233;rie</form>
+</language>
+</country>
+<country id="ASM">
+ 
+<language id="en">
+ 
+<form id="long">American Samoa</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Samoas am&#233;ricaines</form>
+</language>
+</country>
+<country id="AND">
+ 
+<language id="en">
+ 
+<form id="long">Andorra</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">Andorre</form>
+</language>
+</country>
+<country id="AGO">
+ 
+<language id="en">
+ 
+<form id="long">Angola</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Angola</form>
+
+</language>
+</country>
+<country id="AIA">
+ 
+<language id="en">
+ 
+<form id="long">Anguilla</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Anguilla</form>
+</language>
+</country>
+<country id="ATG">
+
+ 
+<language id="en">
+ 
+<form id="long">Antigua and Barbuda</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Antigua-et-Barbuda</form>
+</language>
+</country>
+<country id="ARG">
+ 
+<language id="en">
+ 
+
+<form id="long">Argentina</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Argentine</form>
+</language>
+</country>
+<country id="ARM">
+ 
+<language id="en">
+ 
+<form id="long">Armenia</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Arm&#233;nie</form>
+</language>
+</country>
+<country id="ABW">
+ 
+<language id="en">
+ 
+<form id="long">Aruba</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Aruba</form>
+</language>
+</country>
+<country id="AUS">
+ 
+<language id="en">
+ 
+<form id="long">Australia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Australie</form>
+
+</language>
+</country>
+<country id="AUT">
+ 
+<language id="en">
+ 
+<form id="long">Austria</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Autriche</form>
+</language>
+</country>
+<country id="AZE">
+
+ 
+<language id="en">
+ 
+<form id="long">Azerbaijan</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Azerba&#239;djan</form>
+</language>
+</country>
+<country id="BHS">
+ 
+<language id="en">
+
+ 
+<form id="long">Bahamas</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Bahamas</form>
+</language>
+</country>
+<country id="BHR">
+ 
+<language id="en">
+ 
+<form id="long">Bahrain</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Bahre&#239;n</form>
+</language>
+</country>
+<country id="BGD">
+ 
+<language id="en">
+ 
+<form id="long">Bangladesh</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">Bangladesh</form>
+</language>
+</country>
+<country id="BRB">
+ 
+<language id="en">
+ 
+<form id="long">Barbados</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Barbade</form>
+
+</language>
+</country>
+<country id="BLR">
+ 
+<language id="en">
+ 
+<form id="long">Belarus</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">B&#233;larus</form>
+</language>
+</country>
+
+<country id="BEL">
+ 
+<language id="en">
+ 
+<form id="long">Belgium</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Belgique</form>
+</language>
+</country>
+<country id="BLZ">
+ 
+<language id="en">
+
+ 
+<form id="long">Belize</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Belize</form>
+</language>
+</country>
+<country id="BEN">
+ 
+<language id="en">
+ 
+<form id="long">Benin</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">B&#233;nin</form>
+</language>
+</country>
+<country id="BMU">
+ 
+<language id="en">
+ 
+<form id="long">Bermuda</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">Bermudes</form>
+</language>
+</country>
+<country id="BTN">
+ 
+<language id="en">
+ 
+<form id="long">Bhutan</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Bhoutan</form>
+
+</language>
+</country>
+<country id="BOL">
+ 
+<language id="en">
+ 
+<form id="long">Bolivia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Bolivie</form>
+</language>
+</country>
+<country id="BIH">
+
+ 
+<language id="en">
+ 
+<form id="long">Bosnia and Herzegovina</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Bosnie-Herz&#233;govine</form>
+</language>
+</country>
+<country id="BWA">
+ 
+<language id="en">
+
+ 
+<form id="long">Botswana</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Botswana</form>
+</language>
+</country>
+<country id="BRA">
+ 
+<language id="en">
+ 
+<form id="long">Brazil</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Br&#233;sil</form>
+</language>
+</country>
+<country id="VGB">
+ 
+<language id="en">
+ 
+<form id="long">British Virgin Islands</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">&#206;les Vierges britanniques</form>
+</language>
+</country>
+<country id="BRN">
+ 
+<language id="en">
+ 
+<form id="long">Brunei Darussalam</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Brun&#233;i Darussalam</form>
+
+</language>
+</country>
+<country id="BGR">
+ 
+<language id="en">
+ 
+<form id="long">Bulgaria</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Bulgarie</form>
+</language>
+</country>
+<country id="BFA">
+
+ 
+<language id="en">
+ 
+<form id="long">Burkina Faso</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Burkina Faso</form>
+</language>
+</country>
+<country id="BDI">
+ 
+<language id="en">
+ 
+
+<form id="long">Burundi</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Burundi</form>
+</language>
+</country>
+<country id="KHM">
+ 
+<language id="en">
+ 
+<form id="long">Cambodia</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Cambodge</form>
+</language>
+</country>
+<country id="CMR">
+ 
+<language id="en">
+ 
+<form id="long">Cameroon</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Cameroun</form>
+</language>
+</country>
+<country id="CAN">
+ 
+<language id="en">
+ 
+<form id="long">Canada</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Canada</form>
+</language>
+
+</country>
+<country id="CPV">
+ 
+<language id="en">
+ 
+<form id="long">Cape Verde</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Cap-Vert</form>
+</language>
+</country>
+<country id="CYM">
+ 
+
+<language id="en">
+ 
+<form id="long">Cayman Islands</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les Ca&#239;manes</form>
+</language>
+</country>
+<country id="CAF">
+ 
+<language id="en">
+ 
+
+<form id="long">Central African Republic</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">R&#233;publique centrafricaine</form>
+</language>
+</country>
+<country id="TCD">
+ 
+<language id="en">
+ 
+<form id="long">Chad</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Tchad</form>
+</language>
+</country>
+<country id="CHL">
+ 
+<language id="en">
+ 
+<form id="long">Chile</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Chili</form>
+</language>
+</country>
+<country id="CHN">
+ 
+<language id="en">
+ 
+<form id="long">China</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Chine</form>
+
+</language>
+</country>
+<country id="COL">
+ 
+<language id="en">
+ 
+<form id="long">Colombia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Colombie</form>
+</language>
+</country>
+<country id="COM">
+
+ 
+<language id="en">
+ 
+<form id="long">Comoros</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Comores</form>
+</language>
+</country>
+<country id="COG">
+ 
+<language id="en">
+ 
+
+<form id="long">Congo</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Congo</form>
+</language>
+</country>
+<country id="COK">
+ 
+<language id="en">
+ 
+<form id="long">Cook Islands</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les Cook</form>
+</language>
+</country>
+<country id="CRI">
+ 
+<language id="en">
+ 
+<form id="long">Costa Rica</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Costa Rica</form>
+</language>
+</country>
+<country id="CIV">
+ 
+<language id="en">
+ 
+<form id="long">Ctte d'Ivoire</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">C&#244;te d'Ivoire</form>
+
+</language>
+</country>
+<country id="HRV">
+ 
+<language id="en">
+ 
+<form id="long">Croatia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Croatie</form>
+</language>
+</country>
+<country id="CUB">
+
+ 
+<language id="en">
+ 
+<form id="long">Cuba</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Cuba</form>
+</language>
+</country>
+<country id="CYP">
+ 
+<language id="en">
+ 
+
+<form id="long">Cyprus</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Chypre</form>
+</language>
+</country>
+<country id="CZE">
+ 
+<language id="en">
+ 
+<form id="long">Czech Republic</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">R&#233;publique tch&#232;que</form>
+</language>
+</country>
+<country id="PRK">
+ 
+<language id="en">
+ 
+<form id="long">Democratic People's Republic of Korea</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">R&#233;publique populaire d&#233;mocratique de Cor&#233;e</form>
+</language>
+</country>
+<country id="COD">
+ 
+<language id="en">
+ 
+<form id="long">Democratic Republic of the Congo</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">R&#233;publique d&#233;mocratique du Congo</form>
+</language>
+</country>
+<country id="DNK">
+ 
+<language id="en">
+ 
+<form id="long">Denmark</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Danemark</form>
+</language>
+</country>
+<country id="DJI">
+ 
+<language id="en">
+ 
+<form id="long">Djibouti</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Djibouti</form>
+
+</language>
+</country>
+<country id="DMA">
+ 
+<language id="en">
+ 
+<form id="long">Dominica</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Dominique</form>
+</language>
+</country>
+<country id="DOM">
+
+ 
+<language id="en">
+ 
+<form id="long">Dominican Republic</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">R&#233;publique dominicaine</form>
+</language>
+</country>
+<country id="TLS">
+ 
+<language id="en">
+
+ 
+<form id="long">East Timor</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Timor-Leste</form>
+</language>
+</country>
+<country id="ECU">
+ 
+<language id="en">
+ 
+<form id="long">Ecuador</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#201;quateur</form>
+</language>
+</country>
+<country id="EGY">
+ 
+<language id="en">
+ 
+<form id="long">Egypt</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">&#201;gypte</form>
+</language>
+</country>
+<country id="SLV">
+ 
+<language id="en">
+ 
+<form id="long">El Salvador</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">El Salvador</form>
+
+</language>
+</country>
+<country id="GNQ">
+ 
+<language id="en">
+ 
+<form id="long">Equatorial Guinea</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Guin&#233;e &#233;quatoriale</form>
+</language>
+
+</country>
+<country id="ERI">
+ 
+<language id="en">
+ 
+<form id="long">Eritrea</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#201;rythr&#233;e</form>
+</language>
+</country>
+<country id="EST">
+
+ 
+<language id="en">
+ 
+<form id="long">Estonia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Estonie</form>
+</language>
+</country>
+<country id="ETH">
+ 
+<language id="en">
+ 
+
+<form id="long">Ethiopia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#201;thiopie</form>
+</language>
+</country>
+<country id="FRO">
+ 
+<language id="en">
+ 
+<form id="long">Faeroe Islands</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les F&#233;ro&#233;</form>
+</language>
+</country>
+<country id="FLK">
+ 
+<language id="en">
+ 
+<form id="long">Falkland Islands (Malvinas)</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">&#206;les Falkland (Malvinas)</form>
+</language>
+</country>
+<country id="FJI">
+ 
+<language id="en">
+ 
+<form id="long">Fiji</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Fidji</form>
+
+</language>
+</country>
+<country id="FIN">
+ 
+<language id="en">
+ 
+<form id="long">Finland</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Finlande</form>
+</language>
+</country>
+<country id="FRA">
+
+ 
+<language id="en">
+ 
+<form id="long">France</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">France</form>
+</language>
+</country>
+<country id="GUF">
+ 
+<language id="en">
+ 
+
+<form id="long">French Guiana</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Guyane fran&#231;aise</form>
+</language>
+</country>
+<country id="PYF">
+ 
+<language id="en">
+ 
+<form id="long">French Polynesia</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Polyn&#233;sie fran&#231;aise</form>
+</language>
+</country>
+<country id="GAB">
+ 
+<language id="en">
+ 
+<form id="long">Gabon</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Gabon</form>
+</language>
+</country>
+<country id="GMB">
+ 
+<language id="en">
+ 
+<form id="long">Gambia</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Gambie</form>
+</language>
+</country>
+<country id="GEO">
+ 
+<language id="en">
+ 
+<form id="long">Georgia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">G&#233;orgie</form>
+
+</language>
+</country>
+<country id="DEU">
+ 
+<language id="en">
+ 
+<form id="long">Germany</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Allemagne</form>
+</language>
+</country>
+<country id="GHA">
+
+ 
+<language id="en">
+ 
+<form id="long">Ghana</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Ghana</form>
+</language>
+</country>
+<country id="GIB">
+ 
+<language id="en">
+ 
+
+<form id="long">Gibraltar</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Gibraltar</form>
+</language>
+</country>
+<country id="GRC">
+ 
+<language id="en">
+ 
+<form id="long">Greece</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Gr&#232;ce</form>
+</language>
+</country>
+<country id="GRL">
+ 
+<language id="en">
+ 
+<form id="long">Greenland</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Groenland</form>
+</language>
+</country>
+<country id="GRD">
+ 
+<language id="en">
+ 
+<form id="long">Grenada</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Grenade</form>
+
+</language>
+</country>
+<country id="GLP">
+ 
+<language id="en">
+ 
+<form id="long">Guadeloupe</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Guadeloupe</form>
+</language>
+</country>
+<country id="GUM">
+
+ 
+<language id="en">
+ 
+<form id="long">Guam</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Guam</form>
+</language>
+</country>
+<country id="GTM">
+ 
+<language id="en">
+ 
+
+<form id="long">Guatemala</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Guatemala</form>
+</language>
+</country>
+<country id="GIN">
+ 
+<language id="en">
+ 
+<form id="long">Guinea</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Guin&#233;e</form>
+</language>
+</country>
+<country id="GNB">
+ 
+<language id="en">
+ 
+<form id="long">Guinea-Bissau</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Guin&#233;e-Bissau</form>
+</language>
+</country>
+<country id="GUY">
+ 
+<language id="en">
+ 
+<form id="long">Guyana</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Guyana</form>
+
+</language>
+</country>
+<country id="HTI">
+ 
+<language id="en">
+ 
+<form id="long">Haiti</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Ha&#239;ti</form>
+</language>
+</country>
+
+<country id="VAT">
+ 
+<language id="en">
+ 
+<form id="long">Holy See</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Saint-Si&#232;ge</form>
+</language>
+</country>
+<country id="HND">
+ 
+
+<language id="en">
+ 
+<form id="long">Honduras</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Honduras</form>
+</language>
+</country>
+<country id="HKG">
+ 
+<language id="en">
+ 
+<form id="long">Hong Kong</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Hong Kong</form>
+</language>
+</country>
+<country id="HUN">
+ 
+<language id="en">
+ 
+<form id="long">Hungary</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Hongrie</form>
+</language>
+</country>
+<country id="ISL">
+ 
+<language id="en">
+ 
+<form id="long">Iceland</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Islande</form>
+
+</language>
+</country>
+<country id="IND">
+ 
+<language id="en">
+ 
+<form id="long">India</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Inde</form>
+</language>
+</country>
+<country id="IDN">
+
+ 
+<language id="en">
+ 
+<form id="long">Indonesia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Indon&#233;sie</form>
+</language>
+</country>
+<country id="IRN">
+ 
+<language id="en">
+
+ 
+<form id="long">Iran</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Iran</form>
+</language>
+</country>
+<country id="IRQ">
+ 
+<language id="en">
+ 
+<form id="long">Iraq</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Iraq</form>
+</language>
+</country>
+<country id="IRL">
+ 
+<language id="en">
+ 
+<form id="long">Ireland</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Irlande</form>
+</language>
+</country>
+<country id="ISR">
+ 
+<language id="en">
+ 
+<form id="long">Israel</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Isra&#235;l</form>
+
+</language>
+</country>
+<country id="ITA">
+ 
+<language id="en">
+ 
+<form id="long">Italy</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Italie</form>
+</language>
+</country>
+<country id="JAM">
+
+ 
+<language id="en">
+ 
+<form id="long">Jamaica</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Jama&#239;que</form>
+</language>
+</country>
+<country id="JPN">
+ 
+<language id="en">
+
+ 
+<form id="long">Japan</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Japon</form>
+</language>
+</country>
+<country id="JOR">
+ 
+<language id="en">
+ 
+<form id="long">Jordan</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Jordanie</form>
+</language>
+</country>
+<country id="KAZ">
+ 
+<language id="en">
+ 
+<form id="long">Kazakhstan</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Kazakhstan</form>
+</language>
+</country>
+<country id="KEN">
+ 
+<language id="en">
+ 
+<form id="long">Kenya</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Kenya</form>
+
+</language>
+</country>
+<country id="KIR">
+ 
+<language id="en">
+ 
+<form id="long">Kiribati</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Kiribati</form>
+</language>
+</country>
+<country id="KWT">
+
+ 
+<language id="en">
+ 
+<form id="long">Kuwait</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Kowe&#239;t</form>
+</language>
+</country>
+<country id="KGZ">
+ 
+<language id="en">
+
+ 
+<form id="long">Kyrgyzstan</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Kirghizistan</form>
+</language>
+</country>
+<country id="LAO">
+ 
+<language id="en">
+ 
+<form id="long">Laos</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Laos</form>
+</language>
+</country>
+<country id="LVA">
+ 
+<language id="en">
+ 
+<form id="long">Latvia</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Lettonie</form>
+</language>
+</country>
+<country id="LBN">
+ 
+<language id="en">
+ 
+<form id="long">Lebanon</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Liban</form>
+
+</language>
+</country>
+<country id="LSO">
+ 
+<language id="en">
+ 
+<form id="long">Lesotho</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Lesotho</form>
+</language>
+</country>
+<country id="LBR">
+
+ 
+<language id="en">
+ 
+<form id="long">Liberia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Lib&#233;ria</form>
+</language>
+</country>
+<country id="LBY">
+ 
+<language id="en">
+
+ 
+<form id="long">Libyan Arab Jamahiriya</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Jamahiriya arabe libyenne</form>
+</language>
+</country>
+<country id="LIE">
+ 
+<language id="en">
+ 
+<form id="long">Liechtenstein</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Liechtenstein</form>
+</language>
+</country>
+<country id="LTU">
+ 
+<language id="en">
+ 
+<form id="long">Lithuania</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Lituanie</form>
+</language>
+</country>
+<country id="LUX">
+ 
+<language id="en">
+ 
+<form id="long">Luxembourg</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Luxembourg</form>
+
+</language>
+</country>
+<country id="MAC">
+ 
+<language id="en">
+ 
+<form id="long">Macao</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Macao</form>
+</language>
+</country>
+<country id="MKD">
+
+ 
+<language id="en">
+ 
+<form id="long">Macedonia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Ex-R&#233;publique yougoslave de Mac&#233;doine</form>
+</language>
+</country>
+<country id="MDG">
+ 
+
+<language id="en">
+ 
+<form id="long">Madagascar</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Madagascar</form>
+</language>
+</country>
+<country id="MWI">
+ 
+<language id="en">
+ 
+<form id="long">Malawi</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Malawi</form>
+</language>
+</country>
+<country id="MYS">
+ 
+<language id="en">
+ 
+<form id="long">Malaysia</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Malaisie</form>
+</language>
+</country>
+<country id="MDV">
+ 
+<language id="en">
+ 
+<form id="long">Maldives</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Maldives</form>
+
+</language>
+</country>
+<country id="MLI">
+ 
+<language id="en">
+ 
+<form id="long">Mali</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Mali</form>
+</language>
+</country>
+<country id="MLT">
+
+ 
+<language id="en">
+ 
+<form id="long">Malta</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Malte</form>
+</language>
+</country>
+<country id="MHL">
+ 
+<language id="en">
+ 
+
+<form id="long">Marshall Islands</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les Marshall</form>
+</language>
+</country>
+<country id="MTQ">
+ 
+<language id="en">
+ 
+<form id="long">Martinique</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Martinique</form>
+</language>
+</country>
+<country id="MRT">
+ 
+<language id="en">
+ 
+<form id="long">Mauritania</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Mauritanie</form>
+</language>
+</country>
+<country id="MUS">
+ 
+<language id="en">
+ 
+<form id="long">Mauritius</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Maurice</form>
+</language>
+
+</country>
+<country id="MYT">
+ 
+<language id="en">
+ 
+<form id="long">Mayotte</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Mayotte</form>
+</language>
+</country>
+<country id="MEX">
+ 
+
+<language id="en">
+ 
+<form id="long">Mexico</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Mexique</form>
+</language>
+</country>
+<country id="FSM">
+ 
+<language id="en">
+ 
+<form id="long">Micronesia, Federated States of</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Micron&#233;sie (&#201;tats f&#233;d&#233;r&#233;s de)</form>
+</language>
+</country>
+<country id="MCO">
+ 
+<language id="en">
+ 
+
+<form id="long">Monaco</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Monaco</form>
+</language>
+</country>
+<country id="MNG">
+ 
+<language id="en">
+ 
+<form id="long">Mongolia</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Mongolie</form>
+</language>
+</country>
+<country id="MSR">
+ 
+<language id="en">
+ 
+<form id="long">Montserrat</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Montserrat</form>
+</language>
+</country>
+<country id="MAR">
+ 
+<language id="en">
+ 
+<form id="long">Morocco</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Maroc</form>
+</language>
+
+</country>
+<country id="MOZ">
+ 
+<language id="en">
+ 
+<form id="long">Mozambique</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Mozambique</form>
+</language>
+</country>
+<country id="MMR">
+ 
+
+<language id="en">
+ 
+<form id="long">Myanmar</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Myanmar</form>
+</language>
+</country>
+<country id="NAM">
+ 
+<language id="en">
+ 
+<form id="long">Namibia</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Namibie</form>
+</language>
+</country>
+<country id="NRU">
+ 
+<language id="en">
+ 
+<form id="long">Nauru</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Nauru</form>
+</language>
+</country>
+<country id="NPL">
+ 
+<language id="en">
+ 
+<form id="long">Nepal</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">N&#233;pal</form>
+
+</language>
+</country>
+<country id="NLD">
+ 
+<language id="en">
+ 
+<form id="long">Netherlands</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Pays-Bas</form>
+</language>
+</country>
+<country id="ANT">
+
+ 
+<language id="en">
+ 
+<form id="long">Netherlands Antilles</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Antilles n&#233;erlandaises</form>
+</language>
+</country>
+<country id="NCL">
+ 
+<language id="en">
+
+ 
+<form id="long">New Caledonia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Nouvelle-Cal&#233;donie</form>
+</language>
+</country>
+<country id="NZL">
+ 
+<language id="en">
+ 
+<form id="long">New Zealand</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Nouvelle-Z&#233;lande</form>
+</language>
+</country>
+<country id="NIC">
+ 
+<language id="en">
+ 
+<form id="long">Nicaragua</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">Nicaragua</form>
+</language>
+</country>
+<country id="NER">
+ 
+<language id="en">
+ 
+<form id="long">Niger</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Niger</form>
+
+</language>
+</country>
+<country id="NGA">
+ 
+<language id="en">
+ 
+<form id="long">Nigeria</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Nig&#233;ria</form>
+</language>
+</country>
+
+<country id="NIU">
+ 
+<language id="en">
+ 
+<form id="long">Niue</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Niou&#233;</form>
+</language>
+</country>
+<country id="NFK">
+ 
+<language id="en">
+
+ 
+<form id="long">Norfolk Island</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#206;le Norfolk</form>
+</language>
+</country>
+<country id="MNP">
+ 
+<language id="en">
+ 
+<form id="long">Northern Mariana Islands</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les Mariannes septentrionales</form>
+</language>
+</country>
+<country id="NOR">
+ 
+<language id="en">
+ 
+<form id="long">Norway</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Norv&#232;ge</form>
+</language>
+</country>
+<country id="OMN">
+ 
+<language id="en">
+ 
+<form id="long">Oman</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Oman</form>
+
+</language>
+</country>
+<country id="Other">
+ 
+<language id="en">
+ 
+<form id="long">OtherOther</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">AutreAutre</form>
+</language>
+</country>
+<country id="PAK">
+
+ 
+<language id="en">
+ 
+<form id="long">Pakistan</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Pakistan</form>
+</language>
+</country>
+<country id="PLW">
+ 
+<language id="en">
+ 
+
+<form id="long">Palau</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Palaos</form>
+</language>
+</country>
+<country id="PSE">
+ 
+<language id="en">
+ 
+<form id="long">Palestinian Territory</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Territoire palestinien occup&#233;</form>
+</language>
+</country>
+<country id="PAN">
+ 
+<language id="en">
+ 
+<form id="long">Panama</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Panama</form>
+</language>
+</country>
+<country id="PNG">
+ 
+<language id="en">
+ 
+<form id="long">Papua New Guinea</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Papouasie-Nouvelle-Guin&#233;e</form>
+
+</language>
+</country>
+<country id="PRY">
+ 
+<language id="en">
+ 
+<form id="long">Paraguay</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Paraguay</form>
+</language>
+</country>
+<country id="PER">
+
+ 
+<language id="en">
+ 
+<form id="long">Peru</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">P&#233;rou</form>
+</language>
+</country>
+<country id="PHL">
+ 
+<language id="en">
+
+ 
+<form id="long">Philippines</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Philippines</form>
+</language>
+</country>
+<country id="PCN">
+ 
+<language id="en">
+ 
+<form id="long">Pitcairn</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Pitcairn</form>
+</language>
+</country>
+<country id="POL">
+ 
+<language id="en">
+ 
+<form id="long">Poland</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Pologne</form>
+</language>
+</country>
+<country id="PRT">
+ 
+<language id="en">
+ 
+<form id="long">Portugal</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Portugal</form>
+
+</language>
+</country>
+<country id="PRI">
+ 
+<language id="en">
+ 
+<form id="long">Puerto Rico</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Porto Rico</form>
+</language>
+</country>
+<country id="QAT">
+
+ 
+<language id="en">
+ 
+<form id="long">Qatar</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Qatar</form>
+</language>
+</country>
+<country id="KOR">
+ 
+<language id="en">
+ 
+
+<form id="long">Republic of Korea</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">R&#233;publique de Cor&#233;e</form>
+</language>
+</country>
+<country id="MDA">
+ 
+<language id="en">
+ 
+<form id="long">Republic of Moldova</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">R&#233;publique de Moldova</form>
+</language>
+</country>
+<country id="REU">
+ 
+<language id="en">
+ 
+<form id="long">Riunion</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">R&#233;union</form>
+</language>
+</country>
+<country id="ROU">
+ 
+<language id="en">
+ 
+<form id="long">Romania</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Roumanie</form>
+</language>
+</country>
+<country id="RUS">
+ 
+<language id="en">
+ 
+<form id="long">Russian Federation</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">F&#233;d&#233;ration de Russie</form>
+
+</language>
+</country>
+<country id="RWA">
+ 
+<language id="en">
+ 
+<form id="long">Rwanda</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Rwanda</form>
+</language>
+</country>
+<country id="SHN">
+
+ 
+<language id="en">
+ 
+<form id="long">Saint Helena</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Sainte-H&#233;l&#232;ne</form>
+</language>
+</country>
+<country id="KNA">
+ 
+
+<language id="en">
+ 
+<form id="long">Saint Kitts and Nevis</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Saint-Kitts-et-Nevis</form>
+</language>
+</country>
+<country id="LCA">
+ 
+<language id="en">
+ 
+<form id="long">Saint Lucia</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Sainte-Lucie</form>
+</language>
+</country>
+<country id="SPM">
+ 
+<language id="en">
+ 
+<form id="long">Saint Pierre and Miquelon</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Saint-Pierre-et-Miquelon</form>
+</language>
+</country>
+<country id="VCT">
+ 
+<language id="en">
+ 
+<form id="long">Saint Vincent and the Grenadines</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Saint-Vincent-et-les Grenadines</form>
+
+</language>
+</country>
+<country id="WSM">
+ 
+<language id="en">
+ 
+<form id="long">Samoa</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Samoa</form>
+</language>
+</country>
+<country id="SMR">
+
+ 
+<language id="en">
+ 
+<form id="long">San Marino</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Saint-Marin</form>
+</language>
+</country>
+<country id="STP">
+ 
+<language id="en">
+ 
+
+<form id="long">Sao Tome and Principe</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Sao Tom&#233;-et-Principe</form>
+</language>
+</country>
+<country id="SAU">
+ 
+<language id="en">
+ 
+<form id="long">Saudi Arabia</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Arabie saoudite</form>
+</language>
+</country>
+<country id="SEN">
+ 
+<language id="en">
+ 
+<form id="long">Senegal</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">S&#233;n&#233;gal</form>
+</language>
+</country>
+<country id="SYC">
+ 
+<language id="en">
+ 
+<form id="long">Seychelles</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Seychelles</form>
+</language>
+</country>
+<country id="SLE">
+ 
+<language id="en">
+ 
+<form id="long">Sierra Leone</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Sierra Leone</form>
+</language>
+
+</country>
+<country id="SGP">
+ 
+<language id="en">
+ 
+<form id="long">Singapore</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Singapour</form>
+</language>
+</country>
+<country id="SVK">
+ 
+
+<language id="en">
+ 
+<form id="long">Slovakia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Slovaquie</form>
+</language>
+</country>
+<country id="SVN">
+ 
+<language id="en">
+ 
+<form id="long">Slovenia</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Slov&#233;nie</form>
+</language>
+</country>
+<country id="SLB">
+ 
+<language id="en">
+ 
+<form id="long">Solomon Islands</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">&#206;les Salomon</form>
+</language>
+</country>
+<country id="SOM">
+ 
+<language id="en">
+ 
+<form id="long">Somalia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Somalie</form>
+
+</language>
+</country>
+<country id="ZAF">
+ 
+<language id="en">
+ 
+<form id="long">South Africa</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Afrique du Sud</form>
+</language>
+</country>
+<country id="ESP">
+
+ 
+<language id="en">
+ 
+<form id="long">Spain</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Espagne</form>
+</language>
+</country>
+<country id="LKA">
+ 
+<language id="en">
+ 
+
+<form id="long">Sri Lanka</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Sri Lanka</form>
+</language>
+</country>
+<country id="SDN">
+ 
+<language id="en">
+ 
+<form id="long">Sudan</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Soudan</form>
+</language>
+</country>
+<country id="SUR">
+ 
+<language id="en">
+ 
+<form id="long">Suriname</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Suriname</form>
+</language>
+</country>
+<country id="SJM">
+ 
+<language id="en">
+ 
+<form id="long">Svalbard and Jan Mayen Islands</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Svalbard et &#238;le Jan Mayen</form>
+
+</language>
+</country>
+<country id="SWZ">
+ 
+<language id="en">
+ 
+<form id="long">Swaziland</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Swaziland</form>
+</language>
+</country>
+<country id="SWE">
+
+ 
+<language id="en">
+ 
+<form id="long">Sweden</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Su&#232;de</form>
+</language>
+</country>
+<country id="CHE">
+ 
+<language id="en">
+
+ 
+<form id="long">Switzerland</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Suisse</form>
+</language>
+</country>
+<country id="SYR">
+ 
+<language id="en">
+ 
+<form id="long">Syrian Arab Republic</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">R&#233;publique arabe syrienne</form>
+</language>
+</country>
+<country id="TWN">
+ 
+<language id="en">
+ 
+<form id="long">Taiwan</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">Ta&#239;wan</form>
+</language>
+</country>
+<country id="TJK">
+ 
+<language id="en">
+ 
+<form id="long">Tajikistan</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Tadjikistan</form>
+</language>
+</country>
+<country id="THA">
+ 
+<language id="en">
+ 
+<form id="long">Thailand</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Tha&#239;lande</form>
+
+</language>
+</country>
+<country id="TGO">
+ 
+<language id="en">
+ 
+<form id="long">Togo</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Togo</form>
+</language>
+</country>
+<country id="TKL">
+
+ 
+<language id="en">
+ 
+<form id="long">Tokelau</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Tok&#233;laou</form>
+</language>
+</country>
+<country id="TON">
+ 
+<language id="en">
+
+ 
+<form id="long">Tonga</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Tonga</form>
+</language>
+</country>
+<country id="TTO">
+ 
+<language id="en">
+ 
+<form id="long">Trinidad and Tobago</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Trinit&#233;-et-Tobago</form>
+</language>
+</country>
+<country id="TUN">
+ 
+<language id="en">
+ 
+<form id="long">Tunisia</form>
+</language>
+ 
+
+<language id="fr">
+ 
+<form id="long">Tunisie</form>
+</language>
+</country>
+<country id="TUR">
+ 
+<language id="en">
+ 
+<form id="long">Turkey</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Turquie</form>
+
+</language>
+</country>
+<country id="TKM">
+ 
+<language id="en">
+ 
+<form id="long">Turkmenistan</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Turkm&#233;nistan</form>
+</language>
+</country>
+
+<country id="TCA">
+ 
+<language id="en">
+ 
+<form id="long">Turks and Caicos Islands</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les Turques et Ca&#239;ques</form>
+</language>
+</country>
+<country id="TUV">
+ 
+
+<language id="en">
+ 
+<form id="long">Tuvalu</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Tuvalu</form>
+</language>
+</country>
+<country id="UGA">
+ 
+<language id="en">
+ 
+<form id="long">Uganda</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Ouganda</form>
+</language>
+</country>
+<country id="UKR">
+ 
+<language id="en">
+ 
+<form id="long">Ukraine</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Ukraine</form>
+</language>
+</country>
+<country id="ARE">
+ 
+<language id="en">
+ 
+<form id="long">United Arab Emirates</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#201;mirats arabes unis</form>
+
+</language>
+</country>
+<country id="GBR">
+ 
+<language id="en">
+ 
+<form id="long">United Kingdom</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Royaume-Uni de Grande-Bretagne et d'Irlande du&#160;Nord</form>
+</language>
+</country>
+
+<country id="TZA">
+ 
+<language id="en">
+ 
+<form id="long">United Republic of Tanzania</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">R&#233;publique-Unie de Tanzanie</form>
+</language>
+</country>
+<country id="USA">
+ 
+
+<language id="en">
+ 
+<form id="long">United States of America</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#201;tats-Unis d'Am&#233;rique</form>
+</language>
+</country>
+<country id="VIR">
+ 
+<language id="en">
+ 
+
+<form id="long">United States Virgin Islands</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les Vierges am&#233;ricaines</form>
+</language>
+</country>
+<country id="URY">
+ 
+<language id="en">
+ 
+<form id="long">Uruguay</form>
+
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Uruguay</form>
+</language>
+</country>
+<country id="UZB">
+ 
+<language id="en">
+ 
+<form id="long">Uzbekistan</form>
+</language>
+ 
+<language id="fr">
+
+ 
+<form id="long">Ouzb&#233;kistan</form>
+</language>
+</country>
+<country id="VUT">
+ 
+<language id="en">
+ 
+<form id="long">Vanuatu</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Vanuatu</form>
+
+</language>
+</country>
+<country id="VEN">
+ 
+<language id="en">
+ 
+<form id="long">Venezuela</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Venezuela</form>
+</language>
+</country>
+<country id="VNM">
+
+ 
+<language id="en">
+ 
+<form id="long">Viet Nam</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Viet Nam</form>
+</language>
+</country>
+<country id="WLF">
+ 
+<language id="en">
+ 
+
+<form id="long">Wallis and Futuna Islands</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">&#206;les Wallis et Futuna</form>
+</language>
+</country>
+<country id="ESH">
+ 
+<language id="en">
+ 
+<form id="long">Western Sahara</form>
+</language>
+
+ 
+<language id="fr">
+ 
+<form id="long">Sahara occidental</form>
+</language>
+</country>
+<country id="YEM">
+ 
+<language id="en">
+ 
+<form id="long">Yemen</form>
+</language>
+ 
+<language id="fr">
+ 
+
+<form id="long">Y&#233;men</form>
+</language>
+</country>
+<country id="YUG">
+ 
+<language id="en">
+ 
+<form id="long">Yugoslavia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Yougoslavie</form>
+
+</language>
+</country>
+<country id="ZMB">
+ 
+<language id="en">
+ 
+<form id="long">Zambia</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Zambie</form>
+</language>
+</country>
+<country id="ZWE">
+
+ 
+<language id="en">
+ 
+<form id="long">Zimbabwe</form>
+</language>
+ 
+<language id="fr">
+ 
+<form id="long">Zimbabwe</form>
+</language>
+</country>
+</countries>

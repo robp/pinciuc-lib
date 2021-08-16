@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<months>
+	<month id="01">
+		<language id="en">
+			<form id="long">January</form>
+			<form id="short">Jan</form>
+		</language>
+		<language id="fr">
+			<form id="long">janvier</form>
+			<form id="short">janv</form>
+		</language>
+	</month>
+
+<month id="02">
+
+<language id="en">
+<form id="long">February</form>
+<form id="short">Feb</form>
+</language>
+<language id="fr">
+<form id="long">f&#233;vrier</form>
+<form id="short">f&#233;v</form>
+</language>
+</month>
+<month id="03">
+<language id="en">
+
+<form id="long">March</form>
+<form id="short">Mar</form>
+</language>
+<language id="fr">
+<form id="long">mars</form>
+<form id="short">mars</form>
+</language>
+</month>
+<month id="04">
+<language id="en">
+<form id="long">April</form>
+<form id="short">Apr</form>
+
+</language>
+<language id="fr">
+<form id="long">avril</form>
+<form id="short">avr</form>
+</language>
+</month>
+<month id="05">
+<language id="en">
+<form id="long">May</form>
+<form id="short">May</form>
+</language>
+<language id="fr">
+<form id="long">mai</form>
+
+<form id="short">mai</form>
+</language>
+</month>
+<month id="06">
+<language id="en">
+<form id="long">June</form>
+<form id="short">Jun</form>
+</language>
+<language id="fr">
+<form id="long">juin</form>
+<form id="short">juin</form>
+</language>
+
+</month>
+<month id="07">
+<language id="en">
+<form id="long">July</form>
+<form id="short">Jul</form>
+</language>
+<language id="fr">
+<form id="long">juillet</form>
+<form id="short">juil</form>
+</language>
+</month>
+<month id="08">
+<language id="en">
+
+<form id="long">August</form>
+<form id="short">Aug</form>
+</language>
+<language id="fr">
+<form id="long">ao&#251;t</form>
+<form id="short">ao&#251;t</form>
+</language>
+</month>
+<month id="09">
+<language id="en">
+<form id="long">September</form>
+
+<form id="short">Sep</form>
+</language>
+<language id="fr">
+<form id="long">septembre</form>
+<form id="short">sept</form>
+</language>
+</month>
+<month id="10">
+<language id="en">
+<form id="long">October</form>
+<form id="short">Oct</form>
+</language>
+
+<language id="fr">
+<form id="long">octobre</form>
+<form id="short">oct</form>
+</language>
+</month>
+<month id="11">
+<language id="en">
+<form id="long">November</form>
+<form id="short">Nov</form>
+</language>
+<language id="fr">
+<form id="long">novembre</form>
+
+<form id="short">nov</form>
+</language>
+</month>
+<month id="12">
+<language id="en">
+<form id="long">December</form>
+<form id="short">Dec</form>
+</language>
+<language id="fr">
+<form id="long">d&#233;cembre</form>
+<form id="short">d&#233;c</form>
+
+</language>
+</month>
+</months>

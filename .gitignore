@@ -1,0 +1,12 @@
+# Exslt library
+xsl/exslt
+
+# Eclipse/Zend Studio files.
+/.project
+/.settings
+
+# OS files
+.DS_Store
+
+# Old SVN files
+.svn
